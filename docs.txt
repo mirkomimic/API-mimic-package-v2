@@ -1,0 +1,1 @@
+install "emrancu/dependency-injection-container": "dev-master"

@@ -8,9 +8,7 @@
       "App\\": "app/"
     }
   },
-  "require": {
-    "emrancu/dependency-injection-container": "dev-master"
-  },
+  "require": {},
   "config": {
     "allow-plugins": {
       "kylekatarnls/update-helper": true
