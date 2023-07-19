@@ -1,1 +1,3 @@
 install "emrancu/dependency-injection-container": "dev-master"
+composer require emrancu/dependency-injection-container
+"minimum-stability": "dev",

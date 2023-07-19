@@ -14,7 +14,6 @@
       "kylekatarnls/update-helper": true
     }
   },
-  "minimum-stability": "dev",
   "authors": [
     {
       "name": "mirkoMac",
